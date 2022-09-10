@@ -1,0 +1,45 @@
+body {
+    background-image: url(foto1.jpg);
+    background-size: cover;
+    
+}
+
+main#container {
+    border: solid;
+    color: rgba(29, 27, 27, 0.377);
+    background-color: rgba(31, 27, 27, 0.767);
+    border-radius: 5%;
+    border: 6px solid rgba(164, 153, 173, 0.521);
+    padding: 2px;
+    width: 450px;
+    height: 230px;
+    border: 1px solid #333; box-shadow: 0 0 8px 5px black;
+    
+}
+
+h1.titulo {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size:35px;
+        
+}
+
+p.frase {
+    
+    color:rgb(200, 203, 206);
+    font-size: larger;
+    font-family: arial;
+    font-size: 25px;
+
+
+
+}
+
+p.autor {
+    color: rgb(255, 255, 255);
+    font-size: 29%px;
+    font-style: oblique;
+    font-size: 18px;
+    
+    
+}
